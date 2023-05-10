@@ -1,7 +1,7 @@
 
 # <img src="react.gif" alt= 'react' width="30px"> Oswaldo Yánez
 
-**`Internaut & space drifter (Developer/Writer/Creator)`**
+**`Internaut & Space Drifter (Developer/Writer/Creator)`**
 
 I'm a fullstack developer with a great ability to create innovative and creative solutions. With experience in multiple web development technologies, I strive to deliver high-quality products that exceed my clients' expectations. In addition to my programming experience, I dedicate my free time to audio-visual content creation and writing, allowing me to explore my creative skills. For the past 3 years, I have worked as a freelance developer on various projects, collaborating with teams and tackling creative challenges. Currently, I'm actively learning about tools that utilize artificial intelligence models to further expand my knowledge and integrate them into future projects.
 
