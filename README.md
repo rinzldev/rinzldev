@@ -1,5 +1,5 @@
 <div title ="welcome">
-  <h1> Hello World </h1>
+  <h1> Hello, Friend. </h1>
 </div>
 
 
