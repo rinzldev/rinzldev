@@ -4,10 +4,10 @@
 
 ### 👇🏼  Contact me here:
 <div title = 'social-media' align='left'>
-   <a href="https://github.com/rinzldev"><img height="50" src="github.png"></a>&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/oswaldo-rinzlrdev/"><img height="50" src="linkedin.png"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/rinzldev"><img height="50" src="twitter.png"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/rinzldev?igshid=ZGUzMzM3NWJiOQ=="><img height="50" src="instagram.png"></a>&nbsp;&nbsp;
+   <a href="https://github.com/rinzldev"><img alt= 'github' height="40" src="github.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/oswaldo-rinzlrdev/"><img alt='linkedin' height="40" src="linkedin.png"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/rinzldev"><img alt= 'twitter' height="40" src="twitter.png"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/rinzldev?igshid=ZGUzMzM3NWJiOQ=="><img alt= 'instagram' height="40" src="instagram.png"></a>&nbsp;&nbsp;
 </div>
 
 
