@@ -2,12 +2,14 @@
    <h1>Hi there, I'm Oswaldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+
+
 ### 👇🏼  Contact me here:
 <div title = 'social-media' align='left'>
-   <a href="https://github.com/rinzldev"><img alt= 'github' height="40" src="github.png"></a>&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/oswaldo-rinzlrdev/"><img alt='linkedin' height="40" src="linkedin.png"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/rinzldev"><img alt= 'twitter' height="40" src="twitter.png"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/rinzldev?igshid=ZGUzMzM3NWJiOQ=="><img alt= 'instagram' height="40" src="instagram.png"></a>&nbsp;&nbsp;
+   <a href="https://github.com/rinzldev"><img alt= 'github' blank = '' height="40" src="github.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/oswaldo-rinzlrdev/"><img alt='linkedin' blank = '' height="40" src="linkedin.png"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/rinzldev"><img alt= 'twitter' blank = '' height="40" src="twitter.png"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/rinzldev?igshid=ZGUzMzM3NWJiOQ=="><img alt= 'instagram' blank = '' height="40" src="instagram.png"></a>&nbsp;&nbsp;
 </div>
 
 
