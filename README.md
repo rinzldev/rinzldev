@@ -31,7 +31,12 @@ I'm a fullstack developer with a great ability to create innovative and creative
    <img alt= 'instagram' height="40" src="instagram.png"></a>&nbsp;&nbsp;
 </div>
 
+### 📊 Stats:
 
+![rinzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinzldev&show_icons=true&theme=radical)
+
+
+#
 
 
 <!--
