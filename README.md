@@ -1,5 +1,5 @@
 <div title='welcome' align="left">
-   <h1>Hi there, I'm Oswaldo <img src="react.gif" width="30px"> </h1>
+   <h1>  <img src="react.gif" alt= 'react' width="30px"> Hi there, I'm Oswaldo </h1>
 </div>
 
 
