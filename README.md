@@ -6,7 +6,7 @@
 
 ### 👇🏼  Contact me here:
 <div title = 'social-media' align='left'>
-   <a href="https://github.com/rinzldev"><img alt= 'github' target="_blank" height="40" src="github.png"></a>&nbsp;&nbsp;
+   <a href="https://github.com/rinzldev"><img alt= 'github' target= '_blank' height="40" src="github.png"></a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/oswaldo-rinzlrdev/"><img alt='linkedin' target="_blank" height="40" src="linkedin.png"></a>&nbsp;&nbsp;
    <a href="https://twitter.com/rinzldev"><img alt= 'twitter' target="_blank" height="40" src="twitter.png"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/rinzldev?igshid=ZGUzMzM3NWJiOQ=="><img alt= 'instagram' target="_blank" height="40" src="instagram.png"></a>&nbsp;&nbsp;
