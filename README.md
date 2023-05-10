@@ -6,7 +6,7 @@
 
 ### 👇🏼  Contact me here:
 <div title = 'social-media' align='left'>
-   <a href="https://github.com/rinzldev" target= '_blank' >
+   <a target='_blank' href="https://github.com/rinzldev" >
    <img alt= 'github' height="40" src="github.png"></a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/oswaldo-rinzlrdev/" target="_blank">
    <img alt='linkedin' height="40" src="linkedin.png"></a>&nbsp;&nbsp;
