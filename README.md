@@ -33,7 +33,7 @@ I'm a fullstack developer with a great ability to create innovative and creative
 
 ### 📊 Stats:
 
-![rinzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinzldev&show_icons=true&theme=radical)
+![rinzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinzldev&show_icons=true&theme=tokyonight)
 
 
 #
