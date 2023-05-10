@@ -1,6 +1,13 @@
-<div title='welcome' align="left">
-   <h1>  <img src="react.gif" alt= 'react' width="30px"> Hi there, I'm Oswaldo </h1>
-</div>
+
+# <img src="react.gif" alt= 'react' width="30px"> Oswaldo Yánez
+
+**`Internaut & space drifter (Developer/Writer/Creator)`**
+
+I am a fullstack developer with a great ability to create innovative solutions. With experience in multiple technologies focused on web development, I strive to deliver high quality products that exceed my clients' expectations. In addition to my programming experience, I create audio-visual content in my spare time for pure entertainment, which allows me to exploit my creative skills. I have had the opportunity to work several times as a freelancer, in different projects, collaborating with teams and facing creative challenges. My main goal is to provide efficient and scalable solutions that drive my clients' success and improve their online presence.
+
+  
+---
+
 
 ### ⚔️ Toolbox:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/><img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
