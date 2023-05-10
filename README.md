@@ -3,7 +3,9 @@
 
 **`Internaut & space drifter (Developer/Writer/Creator)`**
 
-I am a fullstack developer with a great ability to create innovative solutions. With experience in multiple technologies focused on web development, I strive to deliver high quality products that exceed my clients' expectations. In addition to my programming experience, I create audio-visual content in my spare time for pure entertainment, which allows me to exploit my creative skills. I have had the opportunity to work several times as a freelancer, in different projects, collaborating with teams and facing creative challenges. My main goal is to provide efficient and scalable solutions that drive my clients' success and improve their online presence.
+I'm a full-stack developer with a great ability to create innovative and creative solutions. With experience in multiple web development technologies, I strive to deliver high-quality products that exceed my clients' expectations. In addition to my programming experience, I dedicate my free time to audio-visual content creation and writing, allowing me to explore my creative skills. For the past 3 years, I have worked as a freelance developer on various projects, collaborating with teams and tackling creative challenges. Currently, I'm actively learning about tools that utilize artificial intelligence models to further expand my knowledge and integrate them into future projects.
+
+
 
   
 ---
