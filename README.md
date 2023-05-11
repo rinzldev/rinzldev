@@ -29,6 +29,5 @@ I'm a fullstack developer with a great ability to create innovative and creative
    <img alt= 'twitter' height="40" src="twitter.png"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/rinzldev?igshid=ZGUzMzM3NWJiOQ==" target="_blank">
    <img alt= 'instagram' height="40" src="instagram.png"></a>&nbsp;&nbsp;
-   <a href="https://www.twitch.tv/rinzlrproject" target="_blank">
-   <img alt= 'twitch' height="40" src="twitch.png"></a>&nbsp;&nbsp;
+  
 </div>
