@@ -3,7 +3,12 @@
 
 **`Internaut & Space Drifter (Developer/Writer/Creator)`**
 
-I'm a fullstack developer with a great ability to create innovative and creative solutions. With experience in multiple web development technologies, I strive to deliver high-quality products that exceed my clients' expectations. In addition to my programming experience, I dedicate my free time to audio-visual content creation and writing, allowing me to explore my creative skills. For the past 3 years, I have worked as a freelance developer on various projects, collaborating with teams and tackling creative challenges. Currently, I'm actively learning about tools that utilize artificial intelligence models to further expand my knowledge and integrate them into future projects.
+Hi everyone!
+Life is a journey full of challenges, learning, and unexpected adventures, and mine has been no exception. Along the way, I’ve had the privilege of taking on multiple roles: from documentation lead, Front-End and Back-End developer (yes, the latter is my favorite), to team leader and project manager. All of this in both academic and professional settings. I’ve worked with amazing people, and the best part is that I’ve learned so much from every experience, challenge, and project I’ve been part of.
+
+My philosophy? If something seems complicated, challenging, or even a bit crazy... I’ll give it a shot! I firmly believe that true growth comes from trial and error, from failures that teach us, and from successes that we celebrate with humility.
+
+So, if you’re looking for someone passionate about challenges, who enjoys defying the odds, and who never stops learning, here I am! 🚀
 
 
 
