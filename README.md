@@ -14,7 +14,7 @@ Life is a journey of continuous learning, and my career in tech reflects that. I
 * 💡 **What I do:** I enjoy defying the odds, solving complex problems, and collaborating with amazing people in both academic and professional settings.
 * 🌱 **Always Learning:** I never stop looking for the next challenge that will push my skills to the next level.
 
-
+---
 ### 🛠️ Toolbox
 
 <p align="center">
@@ -27,7 +27,7 @@ Life is a journey of continuous learning, and my career in tech reflects that. I
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
 
-
+---
 ### 📫 Let's Connect!
 
 <p align="center">
