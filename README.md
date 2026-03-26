@@ -1,39 +1,42 @@
+<h1 align="center">Hi there, I'm Oswaldo Yánez 👋</h1>
+<h3 align="center">Full-Stack Developer | Back-End Enthusiast | Problem Solver</h3>
 
-# <img src="react.gif" alt= 'react' width="30px"> Oswaldo Yánez
+<p align="center">
+  <i>"If something seems complicated, challenging, or even a bit crazy... I'll give it a shot!"</i>
+</p>
 
-**`Internaut & Space Drifter (Developer/Writer/Creator)`**
-
-Hi everyone!
-Life is a journey full of challenges, learning, and unexpected adventures, and mine has been no exception. Along the way, I’ve had the privilege of taking on multiple roles: from documentation lead, Front-End and Back-End developer (yes, the latter is my favorite), to team leader and project manager. All of this in both academic and professional settings. I’ve worked with amazing people, and the best part is that I’ve learned so much from every experience, challenge, and project I’ve been part of.
-
-My philosophy? If something seems complicated, challenging, or even a bit crazy... I’ll give it a shot! I firmly believe that true growth comes from trial and error, from failures that teach us, and from successes that we celebrate with humility.
-
-So, if you’re looking for someone passionate about challenges, who enjoys defying the odds, and who never stops learning, here I am! 🚀
-
-
-
-  
 ---
 
+### 👨‍💻 About Me
 
-### ⚔️ Toolbox:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/><img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50" height="50" /><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJs" width="50" height="50" />
+Life is a journey of continuous learning, and my career in tech reflects that. I've had the privilege of wearing many hats: from Documentation Lead and Project Manager, to Front-End and **Back-End Developer** (which is definitely my favorite!). 
 
+* 🚀 **My Philosophy:** I firmly believe that true growth comes from trial and error, learning from our failures, and celebrating our successes with humility.
+* 💡 **What I do:** I enjoy defying the odds, solving complex problems, and collaborating with amazing people in both academic and professional settings.
+* 🌱 **Always Learning:** I never stop looking for the next challenge that will push my skills to the next level.
 
+---
 
+### 🛠️ Toolbox
 
-### 👇🏼  Contact me here:
-<div title = 'social-media' align='left'>
-   <a href="https://github.com/rinzldev" target="_blank">
-   <img alt= 'github' height="40" src="github.png"></a>&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/oswaldo-rinzlrdev/" target="_blank">
-   <img alt='linkedin' height="40" src="linkedin.png"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/rinzldev" target="_blank"> 
-   <img alt= 'twitter' height="40" src="twitter.png"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/rinzldev?igshid=ZGUzMzM3NWJiOQ==" target="_blank">
-   <img alt= 'instagram' height="40" src="instagram.png"></a>&nbsp;&nbsp;
-   <a href="https://www.twitch.tv/rinzlrproject" target="_blank">
-   <img alt= 'twitch' height="40" src="twitch.png"></a>&nbsp;&nbsp;
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="TU_LINK_DE_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="TU_LINK_DE_GITHUB_AQUI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="TU_LINK_DE_X_AQUI"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="TU_LINK_DE_INSTAGRAM_AQUI"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="TU_LINK_DE_TWITCH_AQUI"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
+</p>
