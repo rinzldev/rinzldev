@@ -21,9 +21,6 @@ So, if you’re looking for someone passionate about challenges, who enjoys defy
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJs" width="50" height="50" />
 
 
-### 📊 Stats:
-![rinzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinzldev&show_icons=true&theme=tokyonight)
-#
 
 
 ### 👇🏼  Contact me here:
