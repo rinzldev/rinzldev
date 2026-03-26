@@ -5,7 +5,6 @@
   <i>"If something seems complicated, challenging, or even a bit crazy... I'll give it a shot!"</i>
 </p>
 
----
 
 ### 👨‍💻 About Me
 
@@ -27,7 +26,7 @@ Life is a journey of continuous learning, and my career in tech reflects that. I
   <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
----
+
 
 ### 📫 Let's Connect!
 
